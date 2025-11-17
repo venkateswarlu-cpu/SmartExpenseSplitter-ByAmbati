@@ -1,4 +1,4 @@
-**Smart Expense Splitter
+Smart Expense Splitter
 A full-stack MERN application that helps groups manage shared expenses efficiently. Whether it's trips, households, or events, the app calculates who owes whom and provides smart settlement suggestions to minimize transactions.
 Key Features
 
@@ -144,4 +144,4 @@ npm test
 
 
 I can also write a polished GitHub README.md for you that includes badges, screenshots, and usage instructions—making it fully ready to publish.
-Do you want me to create that full README?**
+Do you want me to create that full README?
